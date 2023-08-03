@@ -1,1 +1,1 @@
-# istio-gateway
+# istio-samples
